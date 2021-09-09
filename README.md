@@ -1,2 +1,2 @@
 # Random-User
-An html, css, javascript app to fetch and display a random user from the random user api
+An html, css and javascript app to fetch and display a random user from the random user api
